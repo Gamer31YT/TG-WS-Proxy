@@ -1,0 +1,6 @@
+{
+  "name": "TG WS Proxy",
+  "description": "Локальный MTProto и SOCKS5 прокси-сервер для Telegram на Android. Обходит блокировки с помощью шифрованных WebSockets и прямого TCP-реле.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
